@@ -1,2 +1,22 @@
-# Academic-Projects-Archive
-A curated collection of my academic and engineering projects developed during my IT &amp; AI studies at Al-Shahba Private University
+# IT Engineering Academic Portfolio 🎓
+
+أهلاً بك! هذا المستودع يضم مجموعة من المشاريع البرمجية والهندسية التي قمت بتطويرها خلال فترة دراستي لتخصص هندسة تقنية المعلومات  في جامعة الشهباء الخاصة.
+
+## 👤 نبذة عني
+أنا **قصي العيسى**، مهندس تقنية معلومات. أركز في عملي على بناء حلول ذكية باستخدام تقنيات تعلم الآلة (Machine Learning) والرؤية الحاسوبية (Computer Vision).
+
+## 🚀 المشاريع الرئيسية (Key Projects)
+
+| المشروع | التقنيات المستخدمة | الوصف المختصر |
+
+نظام كشف مخالفات المرور | Python, YOLOv8, OCR | مشروع التخرج لكشف مخالفات الإشارة الحمراء. |
+مصنف الأمراض الجلدية | CNN, Streamlit, Python | تطبيق AI لتشخيص  3 أنواع من الأمراض الجلدية. |
+مصنف اورام الثدي  | CNN, Streamlit, Python | تصنيف الاورام من الصور والفيديو 
+
+## 🛠 المهارات التقنية
+* **اللغات:** Python (Advanced)
+* **الذكاء الاصطناعي:** Computer Vision, CNNs, YOLO models.
+* **الأدوات:** Docker, FastAPI, VS Code, Git/GitHub.
+
+## 💡 منهجية العمل
+أعتمد في مشاريعي على منهجية **التطوير المدعوم بالذكاء الاصطناعي**، حيث أقوم بتصميم بنية النظام (Architecture) وتوجيه أدوات الـ AI لبناء الأجزاء البرمجية مع التركيز على فهم المنطق البرمجي وضمان جودة الأداء.
